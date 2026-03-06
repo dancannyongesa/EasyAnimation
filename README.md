@@ -1,6 +1,6 @@
 # 🎬 EasyAnimation - Professional Animation Workbench for FreeCAD
 
-![EasyAnimation Logo](icons/play.svg)
+
 
 EasyAnimation is a powerful, beginner-friendly animation workbench for FreeCAD that allows you to create complex animations without writing a single line of code. Create mechanical animations, product demonstrations, and educational content with ease.
 
