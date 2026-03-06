@@ -1,4 +1,16 @@
+# THE PROJECT IS STILL UNDER DEVELOPMENT AND FILES HAVE NOT BEEN UPLOADED SINCE I AM DOING THE PROJECTR IN MY FREE TIME
+
+
+
+
 # 🎬 EasyAnimation - Professional Animation Workbench for FreeCAD
+
+
+
+
+
+
+
 
 
 
